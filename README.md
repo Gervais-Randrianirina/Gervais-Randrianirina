@@ -2,7 +2,7 @@
 
 <p align="center">
 <!-- <img src= "https://ruya.studio/assets/images/dev.webp" width="600" height="350" /> -->
- <img src='https://img.freepik.com/photos-gratuite/vue-arriere-du-programmeur-travaillant-toute-nuit_1098-18697.jpg' />
+ <img src='https://inco-linkspace.fr/img/animation.gif' />
 </p>
 
 **I am a full stack developer who loves solving problems using code.**
